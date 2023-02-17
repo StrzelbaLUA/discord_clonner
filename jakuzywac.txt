@@ -1,0 +1,3 @@
+# JAK UŻYWAĆ Strzelba_clonner
+Wpisz swój token w .env bez ""
+Otwórz start.bat
